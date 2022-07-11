@@ -1,0 +1,15 @@
+C:\dev\Precificador\bin\Debug\net6.0\Precificador.exe
+C:\dev\Precificador\bin\Debug\net6.0\Precificador.deps.json
+C:\dev\Precificador\bin\Debug\net6.0\Precificador.runtimeconfig.json
+C:\dev\Precificador\bin\Debug\net6.0\Precificador.dll
+C:\dev\Precificador\bin\Debug\net6.0\Precificador.pdb
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.csproj.AssemblyReference.cache
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.AssemblyInfoInputs.cache
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.AssemblyInfo.cs
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.csproj.CoreCompileInputs.cache
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.dll
+C:\dev\Precificador\obj\Debug\net6.0\refint\Precificador.dll
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.pdb
+C:\dev\Precificador\obj\Debug\net6.0\Precificador.genruntimeconfig.cache
+C:\dev\Precificador\obj\Debug\net6.0\ref\Precificador.dll
