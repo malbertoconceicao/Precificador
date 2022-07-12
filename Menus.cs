@@ -4,10 +4,8 @@ namespace Precificador
     class Menus
     {
         public static void MenuPrincipal()
-        {
-            
-            Console.BackgroundColor = ConsoleColor.Cyan;
-            Console.ForegroundColor = ConsoleColor.Red;
+        {      
+            Design.CorPrimaria();
             Console.Clear();
             Console.WriteLine("Digite o valor do produto");
             var valor = decimal.Parse(Console.ReadLine());
@@ -16,11 +14,10 @@ namespace Precificador
             Calculos.Calcula(valor, porcentagem);
             MenuVoltar();
         }
+        
         public static void MenuVoltar()
         {
-            Console.BackgroundColor = ConsoleColor.White;
-            Console.ForegroundColor = ConsoleColor.Black;
-            Console.Clear();
+            Design.CorPrimaria();
             Console.WriteLine("1 - Deseja voltar?");
             Console.WriteLine("2 - Sair");
             var opcao = int.Parse(Console.ReadLine());
