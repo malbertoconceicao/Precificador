@@ -5,6 +5,9 @@ namespace Precificador
     {
         public static void MenuPrincipal()
         {
+            
+            Console.BackgroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.Clear();
             Console.WriteLine("Digite o valor do produto");
             var valor = decimal.Parse(Console.ReadLine());
